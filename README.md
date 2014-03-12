@@ -1,0 +1,4 @@
+gitTraining
+===========
+
+Test remote repository
